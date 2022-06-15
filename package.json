@@ -1,0 +1,34 @@
+{
+  "name": "2ndtask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexRax277/js_adv_5thLesson_2task.git"
+  },
+  "author": "AlexRax277",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexRax277/js_adv_5thLesson_2task/issues"
+  },
+  "homepage": "https://github.com/AlexRax277/js_adv_5thLesson_2task#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.5",
+    "@babel/eslint-parser": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^28.1.1",
+    "eslint": "^8.17.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "jest": "^28.1.1"
+  },
+  "dependencies": {
+    "core-js": "^3.22.8"
+  }
+}
