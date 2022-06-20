@@ -1,4 +1,4 @@
-const SubCharacter = require('./subClasses');
+const Character = require('./Character');
 
-const bowman = new SubCharacter('Paul', 'Bowman');
+const bowman = new Character('Paul', 'Bowman');
 console.log(bowman);
